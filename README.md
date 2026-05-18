@@ -160,8 +160,6 @@ Jibin Joseph. MiniGPT: A Colab-Runnable Learning Module for Rebuilding GPT from 
 https://github.com/jibin10/MiniGPT
 ```
 
-After the JOSE review and archive step, this section can be updated with the final DOI.
-
 ## License
 
 This repository uses two licenses:
