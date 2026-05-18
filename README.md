@@ -125,6 +125,7 @@ For a longer GPU-backed session, run the stronger model and compare the loss cur
 |---|---|
 | `MiniGPT_Notebook.ipynb` | Main learning module notebook |
 | `README.md` | Project overview and usage instructions |
+| `requirements.txt` | Minimal package list for local runs |
 | `paper.md` | JOSE paper |
 | `paper.bib` | JOSE bibliography |
 | `LICENSE` | License information |
