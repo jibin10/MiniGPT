@@ -97,6 +97,6 @@ Jibin Joseph created the MiniGPT notebook, implemented the model and training pi
 
 # Acknowledgements
 
-This module was developed from coursework in Advances in Deep Generative Models at The University of Texas at Austin. The design was conceptually inspired by Andrej Karpathy's nanoGPT repository and related GPT-from-scratch educational material, while the notebook implementation was written independently.
+This module was developed from coursework in Advances in Deep Generative Models (MS AI) at The University of Texas at Austin. The design was conceptually inspired by Andrej Karpathy's nanoGPT repository and related GPT-from-scratch educational material, while the notebook implementation was written independently.
 
 # References
